@@ -18,3 +18,6 @@ un texte en **gras** et en *italique* et ***les deux***
 `print("toto")`
 
 [lien vers killercoda](https://killercoda.com/emelin)
+
+
+[lien vers markdown](https://www.markdownguide.org/cheat-sheet/)
