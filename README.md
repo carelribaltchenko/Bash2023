@@ -21,3 +21,9 @@ un texte en **gras** et en *italique* et ***les deux***
 
 
 [lien vers markdown](https://www.markdownguide.org/cheat-sheet/)
+
+##cours:
+- ls (lister les fichiers)
+- cd (se deplacer dans les dossiers)
+- cd ..(revenir en arriere)
+- cat (lire des fichoers texte.)
