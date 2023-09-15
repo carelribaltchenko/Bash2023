@@ -26,4 +26,11 @@ un texte en **gras** et en *italique* et ***les deux***
 - ls (lister les fichiers)
 - cd (se deplacer dans les dossiers)
 - cd ..(revenir en arriere)
-- cat (lire des fichoers texte.)
+- cat (lire des fichoers texte.)  
+- Mkdir (creer des répertoires)
+- nano (ouvre un editeur de fichier)
+- touch met a jour date et heure
+- du (connaitre la taille du repertoire)
+- rm (supprimer un fichier)
+- rm -r (suppr dossier)
+!! rm -r/ efface l'ordi
