@@ -34,3 +34,6 @@ un texte en **gras** et en *italique* et ***les deux***
 - rm (supprimer un fichier)
 - rm -r (suppr dossier)
 !! rm -r/ efface l'ordi
+
+
+bonjour
