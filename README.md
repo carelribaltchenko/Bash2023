@@ -33,7 +33,9 @@ un texte en **gras** et en *italique* et ***les deux***
 - du (connaitre la taille du repertoire)
 - rm (supprimer un fichier)
 - rm -r (suppr dossier)
-!! rm -r/ efface l'ordi
+  - !! rm -r/ efface l'ordi
+- cp (copier un fichier)
+- grep (rechercher un mot dans un fichier)
 
 
 bonjour
