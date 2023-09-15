@@ -27,7 +27,6 @@ un texte en **gras** et en *italique* et ***les deux***
 - cd (se deplacer dans les dossiers)
 - cd ..(revenir en arriere)
 - cat (lire des fichoers texte.)  
-<<<<<<< HEAD
 - Mkdir (creer des répertoires)
 - nano (ouvre un editeur de fichier)
 - touch met a jour date et heure
@@ -35,6 +34,3 @@ un texte en **gras** et en *italique* et ***les deux***
 - rm (supprimer un fichier)
 - rm -r (suppr dossier)
 !! rm -r/ efface l'ordi
-=======
-- Mkdir (creer des répertoires)
->>>>>>> 7aff328 (cooco)
