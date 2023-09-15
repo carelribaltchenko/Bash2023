@@ -37,9 +37,9 @@ un texte en **gras** et en *italique* et ***les deux***
 - cp (copier un fichier)
 - grep (rechercher un mot dans un fichier)
 
-`-`=nom de fichier 
-`r`= read
-`w` = ecrire
-`x`= executer
+`-`=nom de fichier   
+`r`= read  
+`w` = ecrire  
+`x`= executer  
 
 bonjour
