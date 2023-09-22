@@ -37,6 +37,7 @@ un texte en **gras** et en *italique* et ***les deux***
 - cp (copier un fichier)
 - grep (rechercher un mot dans un fichier)
 - chmod (pour modifier les droits)
+- mv (deplacer unfichier si on met un slash apres l'argument, sinon le renomme)
 `-`=nom de fichier   
 `r`= read  
 `w` = ecrire  
