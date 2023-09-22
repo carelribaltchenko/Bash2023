@@ -23,27 +23,27 @@ un texte en **gras** et en *italique* et ***les deux***
 [lien vers markdown](https://www.markdownguide.org/cheat-sheet/)
 
 ## cours:
-- ls (lister les fichiers)
-- cd (se deplacer dans les dossiers)
-- cd ..(revenir en arriere)
-- cat (lire des fichoers texte.)  
-- Mkdir (creer des répertoires)
-- nano (ouvre un editeur de fichier)
-- touch met a jour date et heure
-- du (connaitre la taille du repertoire)
-- rm (supprimer un fichier)
-- rm -r (suppr dossier)
-  - !! rm -r/ efface l'ordi
-- cp (copier un fichier)
-- grep (rechercher un mot dans un fichier)
-- chmod (pour modifier les droits)
-- mv (deplacer unfichier si on met un slash apres l'argument, sinon le renomme)
+- `ls` (lister les fichiers)
+- `cd` (se deplacer dans les dossiers)
+- `cd` ..(revenir en arriere)
+- `cat` (lire des fichoers texte.)  
+- `Mkdir` (creer des répertoires)
+- `nano` (ouvre un editeur de fichier)
+- `touch` met a jour date et heure
+- `du` (connaitre la taille du repertoire)
+- `rm` (supprimer un fichier)
+- `rm -r` (suppr dossier)
+  - !! `rm -r/` efface l'ordi
+- `cp` (copier un fichier)
+- `grep` (rechercher un mot dans un fichier)
+- `chmod` (pour modifier les droits)
+- `mv` (deplacer unfichier si on met un slash apres l'argument, sinon le renomme)
 `-`=nom de fichier   
 `r`= read  
 `w` = ecrire  
 `x`= executer  
 
 ## utiliser chmod:
-- chmod (utilisateur : u(user), g(groupe), o(other))(+(ajourer des droits) - retirer les droits(droit a update) 
-- chmod 777 donnera les permissions rxwrxwrxw (binaire avec un 1 si la permission est effective)
+- `chmod (utilisateur : u(user), g(groupe), o(other))(+(ajourer des droits) - retirer les droits(droit a update)` 
+- `chmod 777` donnera les permissions `rxwrxwrxw` (binaire avec un 1 si la permission est effective)
 
