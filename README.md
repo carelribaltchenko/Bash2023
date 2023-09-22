@@ -36,9 +36,13 @@ un texte en **gras** et en *italique* et ***les deux***
   - !! rm -r/ efface l'ordi
 - cp (copier un fichier)
 - grep (rechercher un mot dans un fichier)
-
+- chmod (pour modifier les droits)
 `-`=nom de fichier   
 `r`= read  
 `w` = ecrire  
 `x`= executer  
+
+utiliser chmod:
+- chmod (utilisateur : u(user), g(groupe), o(other))(+(ajourer des droits) - retirer les droits(droit a update) 
+- chmod 777 donnera les permissions rxwrxwrxw (binaire avec un 1 si la permission est effective)
 
