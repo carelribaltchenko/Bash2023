@@ -42,4 +42,4 @@ un texte en **gras** et en *italique* et ***les deux***
 `w` = ecrire  
 `x`= executer  
 
-bonjour
+bonjourjiojis
