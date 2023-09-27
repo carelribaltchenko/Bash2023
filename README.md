@@ -47,3 +47,4 @@ un texte en **gras** et en *italique* et ***les deux***
 - `chmod (utilisateur : u(user), g(groupe), o(other))(+(ajourer des droits) - retirer les droits(droit a update)` 
 - `chmod 777` donnera les permissions `rxwrxwrxw` (binaire avec un 1 si la permission est effective)
 
+bonjour 
