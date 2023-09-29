@@ -42,6 +42,7 @@ un texte en **gras** et en *italique* et ***les deux***
 `r`= read  
 `w` = ecrire  
 `x`= executer  
+`sudo` permet de devenir l'utillisateur root
 
 ### utiliser chmod:
 - `chmod (utilisateur : u(user), g(groupe), o(other))(+(ajourer des droits) - retirer les droits(droit a update)` 
