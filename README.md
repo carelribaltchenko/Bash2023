@@ -25,7 +25,7 @@ un texte en **gras** et en *italique* et ***les deux***
 ## cours:
 - `ls` (lister les fichiers)
 - `cd` (se deplacer dans les dossiers)
-- `cd` ..(revenir en arriere)
+- `cd ..`(revenir en arriere)
 - `cat` (lire des fichoers texte.)  
 - `Mkdir` (creer des répertoires)
 - `nano` (ouvre un editeur de fichier)
@@ -43,8 +43,26 @@ un texte en **gras** et en *italique* et ***les deux***
 `w` = ecrire  
 `x`= executer  
 
-## utiliser chmod:
+### utiliser chmod:
 - `chmod (utilisateur : u(user), g(groupe), o(other))(+(ajourer des droits) - retirer les droits(droit a update)` 
 - `chmod 777` donnera les permissions `rxwrxwrxw` (binaire avec un 1 si la permission est effective)
 
-bonjour 
+
+### utiliser mv :
+1. Déplacer un fichier.
+`mv /home/toto/truc.txt /temp/`
+`mv /home/toto/truc.txt ../`
+
+2. Deplacer un repertoire.
+`mv /home/toto/docs/ /temps/`
+
+3. Renommer un fichier.
+`mv /home/toto/truc.txt /home/toto/machin.txt`
+
+4. Les 2.
+`mv /home/toto/truc.txt /home/truc.txt`
+
+5. option :
+-n : ne pas ecraser le fichier existant
+
+bonjour
